@@ -12,6 +12,7 @@
 
 Highlights
 1. Main Form
+
 ![](2020-07-29%2021_45_52-ultimate%20organiser.png)
 
 2. Add Features
@@ -20,7 +21,7 @@ Highlights
 
 3. Delete Features
 
-![](2020-07-29 21_46_16-add%20column.png)
+![](https://github.com/jainaman588/project_folder/blob/master/DataEntry_Organiser/2020-07-29%2021_47_30-delete%20record.png)
 
 4. Add Record
 
