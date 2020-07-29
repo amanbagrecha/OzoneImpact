@@ -1,6 +1,6 @@
-Hypothesis: 
-1.there is no relation between ozone and income
-2.there is a positive relation between ozone and elevation
+# Hypothesis 
+> there is no relation between ozone and income
+> there is a positive relation between ozone and elevation
 
 In this analysis case study, the method followed was that initially I made a copy of the files so that i can try out certain things without any fear. then looked all the tables and primary and foreign keys and how they are correlated. 
 I then took the ozone value to 'air quality table' and elevation values to 'air quality table'.
