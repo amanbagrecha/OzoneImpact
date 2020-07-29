@@ -108,7 +108,7 @@ BT= at satellite temperature,
 W= wavelength of emitted radiance, 
 P=14380
 
-![model builder](LST/modelBuilder.png) 
+![model builder](modelBuilder.png) 
 
 ---
 
@@ -127,4 +127,5 @@ The formula here are empirical, thus some other formula or method can be used an
 
 
 <a name="myfootnote1">1</a>: [ESRI blog](https://www.esri.com/arcgis-blog/products/product/analytics/deriving-temperature-from-landsat-8-thermal-bands-tirs/?rmedium=redirect&rsource=blogs.esri.com/esri/arcgis/2014/01/06/deriving-temperature-from-landsat-8-thermal-bands-tirs) 
+
 <a name="#myfootnote2">2</a> [LST comparision](fulltext83122015.pdf)
