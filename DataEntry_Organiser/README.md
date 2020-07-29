@@ -21,7 +21,7 @@ Highlights
 
 3. Delete Features
 
-![](https://github.com/jainaman588/project_folder/blob/master/DataEntry_Organiser/2020-07-29%2021_47_30-delete%20record.png)
+![](https://github.com/jainaman588/project_folder/blob/master/DataEntry_Organiser/2020-07-29%2022_09_02-delete%20column.png)
 
 4. Add Record
 
