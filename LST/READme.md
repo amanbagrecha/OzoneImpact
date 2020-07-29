@@ -63,13 +63,13 @@ Here's a sentence with a footnote.
 2.	Used con tool to remove negative value from red, blue, green band
 - Values for red, blue green band contained negative values which are not permitted for evaluation. The source was found to be Table 7-A. Only values greater than 0 were accepted.
 
-![TABLE 7-A](LST/table7.jpg)
+![TABLE 7-A](table7.jpg)
 
 3.	Made training sample according to stratified strategy
 - Samples were trained after making true color composite proportion to the size of each class.
 - 4 classes were made with values as mentioned above. The signature file and polygons shape file were saved.
 
-![training samples](LST/trainSample.png)
+![training samples](trainSample.png)
 
 4.	Classified the data using maximum likelihood classifier
 - The MLC was used and the confidence raster was used to test the accuracy of the classification.
@@ -127,3 +127,4 @@ The formula here are empirical, thus some other formula or method can be used an
 
 
 <a name="myfootnote1">1</a>: [ESRI blog](https://www.esri.com/arcgis-blog/products/product/analytics/deriving-temperature-from-landsat-8-thermal-bands-tirs/?rmedium=redirect&rsource=blogs.esri.com/esri/arcgis/2014/01/06/deriving-temperature-from-landsat-8-thermal-bands-tirs) 
+<a name="#myfootnote2">2</a> [LST comparision](fulltext83122015.pdf)
