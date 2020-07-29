@@ -1,4 +1,4 @@
-# How to use the organiser.
+# How to use the organiser
 #### Useful for Lecturers, Data entry Folks, anyone who uses in their daily workflow
 > **This macro enables you to**
 > - Add Features
