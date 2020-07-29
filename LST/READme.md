@@ -125,6 +125,7 @@ The values of K1, K2 are sensitive to the band range DN numbers. A small deflect
 **Future scope:**
 The formula here are empirical, thus some other formula or method can be used and also evaluate the accuracy by ground measured temperature. 
 
+![LST model](LST_MODEL.pdf) 
 
 <a name="myfootnote1">1</a>: [ESRI blog](https://www.esri.com/arcgis-blog/products/product/analytics/deriving-temperature-from-landsat-8-thermal-bands-tirs/?rmedium=redirect&rsource=blogs.esri.com/esri/arcgis/2014/01/06/deriving-temperature-from-landsat-8-thermal-bands-tirs) 
 
