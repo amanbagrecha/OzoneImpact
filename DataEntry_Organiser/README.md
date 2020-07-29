@@ -17,7 +17,7 @@ Highlights
 
 2. Add Features
 
-![](2020-07-29%2021_47_03-add%20record.png)
+![](https://github.com/jainaman588/project_folder/blob/master/DataEntry_Organiser/2020-07-29%2021_46_16-add%20column.png)
 
 3. Delete Features
 
@@ -25,12 +25,13 @@ Highlights
 
 4. Add Record
 
-![](2020-07-29 21_47_03-add%20record.png)
+![](https://github.com/jainaman588/project_folder/blob/master/DataEntry_Organiser/2020-07-29%2021_47_03-add%20record.png)
 
 5. Delete Record
 
-![](2020-07-29 21_47_30-delete%20record.png)
+![](https://github.com/jainaman588/project_folder/blob/master/DataEntry_Organiser/2020-07-29%2021_47_30-delete%20record.png)
 
 6. Search/query
 
-2020-07-29 21_47_55-search%20%26%20replace.png
+![](https://github.com/jainaman588/project_folder/blob/master/DataEntry_Organiser/2020-07-29%2021_47_55-search%20%26%20replace.png)
+
