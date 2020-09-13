@@ -1,4 +1,7 @@
-# How to use the organiser
+# Organiser
+> now you can add, delete and search your records using 
+[this excel macro](https://github.com/jainaman588/CE_PROJECTS/blob/master/DataEntry_Organiser/ULTIMATE_organiser.xlsm)
+## How to use the organiser
 #### Useful for Lecturers, Data entry Folks, anyone who uses in their daily workflow
 > **This macro enables you to**
 > - Add Features
