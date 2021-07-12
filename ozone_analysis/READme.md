@@ -1,4 +1,6 @@
-# Hypothesis 
+## Project for the course Geographic Information Systems (GIS) Specialization
+The final course project to identify the impact of ozone in california 
+## Hypothesis 
 > There is no relation between ozone and income.
 > There is a positive relation between ozone and elevation
 
